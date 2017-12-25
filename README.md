@@ -1,3 +1,4 @@
+# This just adds SE 10.3.3 Support, or tries to.
 # v0rtex-injector beta 4
 
 Get v0rtex tweak injector here: https://github.com/thisiswisy/v0rtex-injector/releases/tag/b4
